@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "176b9e2b-be50-43f2-a5ab-df7a6475f4db",
+		"name": "New Collection-1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
